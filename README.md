@@ -12,7 +12,7 @@ I'm currently using the following hardware:
 
 The C-mount to EF-mount adapter is self-designed in CAD and 3D-printed, allowing pretty much all kinds of lenses!
 
-Current state of FotoPi's GUI:
+# Current state of FotoPi's GUI:
 Main Window:
 <img width="1920" height="1080" alt="v0 5 3-screenshot1" src="https://github.com/user-attachments/assets/42e01951-5cb9-439b-92a1-3f909c3bf3c2" />
 
@@ -22,6 +22,7 @@ All camera settings:
 Built-in mini image gallery for the last 9 photos:
 <img width="1920" height="1080" alt="v0 5 3-screenshot3" src="https://github.com/user-attachments/assets/d1c7c0e5-7aa0-4681-8f85-da58080ce44a" />
 
+# Other
 FotoPi features:
 - Control ISO (100-6400)
 - Control Shutter Speed (1/1000s - 1s or custom input option)
