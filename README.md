@@ -1,7 +1,8 @@
 # FotoPi
 I was looking for a photo-oriented version of a GUI for the Raspberry Pi HQ Camera Module, like CinePi for example.
-Sadly, i couldn't find anything that met my expectations.. so i started learning and making my own GUI!
-FotoPi uses picamera2 and is written in Python with PyQt5 libs
+Sadly, i couldn't find anything that met my expectations.. so i started learning and made FotoPi! 
+
+FotoPi uses picamera2 and is written in Python with PyQt5 libs 
 
 I'm currently using the following hardware:
 - Raspberry Pi 4 4GB
