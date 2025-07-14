@@ -4,7 +4,7 @@ Sadly, i couldn't find anything that met my expectations.. so i started learning
 FotoPi uses picamera2 and is written in Python with PyQt5 libs
 
 I'm currently using the following hardware:
-- Raspberry Pi 4 4gb
+- Raspberry Pi 4 4GB
 - Raspberry Pi HQ Camera Module
 - C-Mount to EF-Mount adapter
 - Waveshare 5.5" AMOLED 1080x1920px capacitive touch display
@@ -23,7 +23,7 @@ Built-in mini image gallery for the last 9 photos:
 
 FotoPi features:
 - Control ISO (100-6400)
-- Control Shutter Speed (1/1000 - 1 or custom input option)
+- Control Shutter Speed (1/1000s - 1s or custom input option)
 - Camera settings menu with 5 additional settings (see screenshot #2)
 - Built-in mini-gallery for the last 9 photos
 - Change image folder
