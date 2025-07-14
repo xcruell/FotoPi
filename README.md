@@ -34,6 +34,7 @@ The whole GUI is currently only made for a display resolution of 1920x1080px.
 If anyone is even interested in this whole project and needs the option for lower resolution displays, i will make some changes.
 
 Planned:
+- Adding licenses and links before releasing any code.
 - Designing a 3D-Printed Case for the whole assembly
 - Designing other lens adapters for more support
 - Adding a continuous shooting / burst mode option, maybe interesting for astrophotography or IR photography
