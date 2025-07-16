@@ -9,7 +9,7 @@ The GUI is made for touchscreens, but can be controlled with a mouse as well.
 I'm currently using the following hardware:
 - Raspberry Pi 4 4GB
 - Raspberry Pi HQ Camera Module
-- C-Mount to EF-Mount adapter
+- C-Mount to EF/EF-S-Mount adapter (with Canon EF-S 18-55mm lens)
 - Waveshare 5.5" AMOLED 1080x1920px capacitive touch display
 
 The C-mount to EF-mount adapter is self-designed in CAD and 3D-printed, allowing pretty much all kinds of lenses!
@@ -38,7 +38,8 @@ If anyone is even interested in this whole project and needs the option for lowe
 
 Planned:
 - Adding licenses and links before releasing any code.
+- Adding a continuous shooting / burst mode option, maybe interesting for astrophotography or IR photography
+- Adding AEC (Auto Exposure Compensation), essentially an auto mode for the shutter speed
 - Designing a 3D-Printed Case for the whole assembly
 - Designing other lens adapters for more support
-- Adding a continuous shooting / burst mode option, maybe interesting for astrophotography or IR photography
 - Adding hardware buttons & rotary encoder support for ISO & shutter adjust and the capture button.
