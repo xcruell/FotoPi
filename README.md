@@ -1,4 +1,5 @@
-# FotoPi
+<img width="4047" height="2115" alt="FotoPi_Logo" src="https://github.com/user-attachments/assets/7ee55530-3076-457e-b3cf-0835a2e28030" />
+
 I was looking for a photo-oriented version of a GUI for the Raspberry Pi HQ Camera Module, like CinePi for example.
 Sadly, i couldn't find anything that met my expectations.. so i started learning and made FotoPi! 
 
