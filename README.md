@@ -1,6 +1,6 @@
 <img width="400" height="200" alt="FotoPi_Logo" src="https://github.com/user-attachments/assets/d4edcda4-29ab-48d3-8b97-5cf923eac821" />  
 
-I was looking for a photo-oriented version of a GUI for the Raspberry Pi HQ Camera Module, like CinePi for example.
+I was looking for a photo-oriented GUI for the Raspberry Pi HQ Camera Module, like CinePi for example.
 Sadly, i couldn't find anything that met my expectations.. so i started learning and made FotoPi! 
 
 FotoPi uses picamera2 and is written in Python with PyQt5 libs 
