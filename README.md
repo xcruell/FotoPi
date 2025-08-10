@@ -42,6 +42,7 @@ Built-in mini image gallery for the last 9 photos:
 <img width="1920" height="1080" alt="shutter" src="https://github.com/user-attachments/assets/92682a52-e1d3-46f6-8a66-0df80c82877c" />
 
 
+<img width="1024" height="1024" alt="FotoPi_render2b-trans2_1024" src="https://github.com/user-attachments/assets/e8aa3ddd-4811-4104-9862-f31117a7cf5d" />
 
 
 
