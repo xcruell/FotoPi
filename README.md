@@ -66,23 +66,40 @@ If anyone is even interested in this whole project and needs the option for lowe
 # Installation
 First of all, make sure that you have picamera2 and PyQt5 installed with:
 
-``` sudo apt updatesudo apt install picamera2 python3-pyqt5 python3-pidng```  <br />
-FotoPi currently only comes as a python3 script. Download latest from here or with wget:
+```
+sudo apt updatesudo apt install picamera2 python3-pyqt5 python3-pidng
+``` 
+<br />
+FotoPi currently only comes as a python3 script. Download latest from here or with git clone:
 
-```wget INSERT_LINK_HERE_SOMETIMEcd /FotoPi-v0.6/```<br />
+```
+wget git clone https://github.com/xcruell/FotoPi
+```
+<br />
 
 <details>
 <summary>soon™</summary>
 If you want to always boot into FotoPi, launch FotoPi_startup.sh with:
 
-```sudo chmod +x /FotoPi_startup.shsudo ./FotoPi_startup.sh```This will copy a systemctl service, which starts FotoPi when the Raspberry Pi has successfully booted.<br />
+```
+sudo chmod +x /FotoPi_startup.shsudo ./FotoPi_startup.sh
+```
+
+This will copy a systemctl service, which starts FotoPi when the Raspberry Pi has successfully booted.<br />
 It also adds a "Start FotoPi" shortcut to your desktop, perfect for touchscreen use.
 </details>
 <br />
 
 If you don't use the startup script, you have to make the script executable with:
-```sudo chmod +x /FotoPi.py```Manually start FotoPi with:
-```cd /FotoPipython3 FotoPi.py```# License
+```
+sudo chmod +x /FotoPi.py
+```
+Manually start FotoPi with:
+```
+cd /FotoPipython3 FotoPi.py
+```
+
+# License
 FotoPi is licensed under BSD 2-Clause.<br />
 Copyright © 2025 by xcruell
 <br />
