@@ -25,20 +25,16 @@ The C-mount to EF-mount adapter is self-designed in CAD and 3D-printed, allowing
 
 # Screenshots:
 <img width="480" height="270" alt="main" src="https://github.com/user-attachments/assets/dc14a789-206d-4da8-a910-d3ed13d6b136" />
+<img width="480" height="270" alt="iso" src="https://github.com/user-attachments/assets/4258a578-bbe0-427e-9489-082e65f0913c" /> <br />
 
-<img width="480" height="270" alt="iso" src="https://github.com/user-attachments/assets/4258a578-bbe0-427e-9489-082e65f0913c" />
-
-<img width="480" height="270" alt="shutter" src="https://github.com/user-attachments/assets/92682a52-e1d3-46f6-8a66-0df80c82877c" /> <br />
-
-<img width="480" height="270" alt="custom_shutter" src="https://github.com/user-attachments/assets/cc46d65e-5433-465d-aa26-28e26fae1c44" />
+<img width="480" height="270" alt="shutter" src="https://github.com/user-attachments/assets/92682a52-e1d3-46f6-8a66-0df80c82877c" />
+<img width="480" height="270" alt="custom_shutter" src="https://github.com/user-attachments/assets/cc46d65e-5433-465d-aa26-28e26fae1c44" /> <br />
 
 <img width="480" height="270" alt="gallery" src="https://github.com/user-attachments/assets/c196ca2a-eeca-45d6-b4d3-0af816dbcfc8" />
- 
 <img width="480" height="270" alt="gallery_full" src="https://github.com/user-attachments/assets/8b8d9330-a552-4214-bdea-78f03cd92f5a" /> <br />
 
 <img width="480" height="270" alt="app_settings" src="https://github.com/user-attachments/assets/ea625006-9527-463c-baa5-063b40f5308a" />
-
-<img width="480" height="270" alt="camera_settings" src="https://github.com/user-attachments/assets/80c9c86c-9fea-4022-aaa8-18617cdc2b05" />
+<img width="480" height="270" alt="camera_settings" src="https://github.com/user-attachments/assets/80c9c86c-9fea-4022-aaa8-18617cdc2b05" /> <br />
 
 
 
