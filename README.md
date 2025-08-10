@@ -36,15 +36,7 @@ The C-mount to EF-mount adapter is self-designed in CAD and 3D-printed, allowing
 <img width="480" height="270" alt="app_settings" src="https://github.com/user-attachments/assets/ea625006-9527-463c-baa5-063b40f5308a" />
 <img width="480" height="270" alt="camera_settings" src="https://github.com/user-attachments/assets/80c9c86c-9fea-4022-aaa8-18617cdc2b05" /> <br />
 
-
-
-
-
-
-
-
-
-Built-in mini image gallery for the last 9 photos: <br />
+<br />
 
 # FotoPi features
 - Control ISO (100-6400)
