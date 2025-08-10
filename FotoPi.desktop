@@ -1,0 +1,7 @@
+[Desktop Entry]
+Comment=FotoPi Desktop shortcut
+Terminal=false
+Name=Start FotoPi
+Exec=/usr/bin/python3 /home/pi/FotoPi/FotoPi.py
+Type=Application
+Icon=/home/pi/FotoPi/resources/icons/icon.png

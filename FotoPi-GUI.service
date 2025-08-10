@@ -1,0 +1,15 @@
+[Unit]
+Description=FotoPi-GUI autostart service
+
+[Service]
+Environment=DISPLAY=:0
+Environment=XAUTHORITY=/home/pi/.Xauthority
+ExecStart=/usr/bin/python3 /home/pi/FotoPi/FotoPi.py
+WorkingDirectory=/home/pi/FotoPi/
+Restart=on-failure
+User=pi
+KillMode=process
+TimeoutSec=0
+
+[Install]
+WantedBy=multi-user.target
