@@ -1,7 +1,5 @@
 <p align="center">
-<img width="300" height="300" alt="FotoPi_render2b-trans2_1024" src="https://github.com/user-attachments/assets/e8aa3ddd-4811-4104-9862-f31117a7cf5d" />
-
-<img width="400" height="200" alt="FotoPi_Logo" src="https://github.com/user-attachments/assets/d4edcda4-29ab-48d3-8b97-5cf923eac821" />  
+<img width="2048" height="1024" alt="FotoPi-trans" src="https://github.com/user-attachments/assets/d51795ef-8d2b-48e6-aff9-84d260be7681" />
 </p>
 <h1 align="center">
 
