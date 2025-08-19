@@ -49,7 +49,8 @@ If anyone is even interested in this whole project and needs the option for lowe
 First of all, make sure that you have picamera2 and PyQt5 installed with:
 
 ```
-sudo apt updatesudo apt install picamera2 python3-pyqt5 python3-pidng
+sudo apt update 
+sudo apt install picamera2 python3-pyqt5 python3-pidng
 ``` 
 <br />
 FotoPi currently only comes as a python3 script. Download latest from here or with git clone:
